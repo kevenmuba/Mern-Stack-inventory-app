@@ -1,3 +1,7 @@
-export default function App() {
-  return <h1 className="text-3xl font-bold underline ">INventory App</h1>;
+import "./App.css";
+
+function App() {
+  return <h1>Inventorie M SYS</h1>;
 }
+
+export default App;
